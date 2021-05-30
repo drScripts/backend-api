@@ -1,0 +1,18 @@
+{
+  "name": "restfulapi-hapi",
+  "version": "1.0.0",
+  "description": "making restfull api",
+  "main": "index.js",
+  "scripts": {
+    "test": "testing"
+  },
+  "keywords": [
+    "oe"
+  ],
+  "author": "drScript's",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^20.1.3",
+    "nanoid": "^3.1.23"
+  }
+}

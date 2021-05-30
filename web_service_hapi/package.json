@@ -1,0 +1,15 @@
+{
+  "name": "web_service_hapi",
+  "version": "1.0.0",
+  "description": "memuat webservice dengan framework hapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "testing",
+    "start": "node server.js"
+  },
+  "author": "drScript's",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^20.1.3"
+  }
+}

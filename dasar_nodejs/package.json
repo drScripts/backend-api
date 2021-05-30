@@ -1,0 +1,11 @@
+{
+  "name": "pemula",
+  "version": "1.0.0",
+  "description": "Belajar membuat aplikasi backend dengan node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "dr'Scripts",
+  "license": "ISC"
+}
